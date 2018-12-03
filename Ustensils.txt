@@ -1,2 +1,2 @@
 * spoon
-* nbowl
+* bowl
